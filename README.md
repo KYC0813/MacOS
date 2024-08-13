@@ -1,4 +1,5 @@
 # 破解WiFi
-https://www.123pan.com/s/JbobVv-po80v.html
+下载链接:
+① https://www.123pan.com/s/JbobVv-H880v
 
-https://github.com/KYC0813/WiFi/releases
+② https://github.com/KYC0813/WiFi/releases
